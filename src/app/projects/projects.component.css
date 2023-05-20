@@ -1,0 +1,18 @@
+
+div > p{
+    text-align: justify;
+}
+
+div > .text2{
+    text-align: center;
+}
+
+.carousel-img {
+    max-height: 300px; /* Ajusta el valor según el tamaño deseado */
+    object-fit: cover; /* Para mantener la proporción y recortar la imagen si es necesario */
+  }
+
+.contorno{
+    -webkit-text-stroke: 0.3px white bold; /* Ancho del contorno y color (en este caso, negro) */
+    -webkit-text-fill-color: black; /* Color del texto interior */
+}
