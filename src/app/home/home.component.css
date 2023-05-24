@@ -1,5 +1,5 @@
 .banner{
-    background-image: url('../../assets/img/BR2.jpg');
+    background-image: url("https://i.imgur.com/JlZzd7g.jpg");
     background-position: top center;
     background-size: cover;
     background-attachment: fixed;
@@ -19,4 +19,22 @@
     height: 100%;
     opacity: 0.0;
     z-index: -1;
+}
+
+.banner2{
+    background-image: url("https://i.imgur.com/JlZzd7g.jpg");
+    position: relative;
+    background-size: cover;
+    background-position: top center;
+    background-attachment: fixed;
+    padding: 8%;
+}
+
+.banner3{
+    background-image: url("https://i.imgur.com/dIVECz1.jpg");
+    position: relative;
+    background-size: cover;
+    background-position: top center;
+    background-attachment: fixed;
+    padding: 4%;
 }
