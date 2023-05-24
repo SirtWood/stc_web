@@ -3,6 +3,17 @@
     background-color: #009688;
 }
 
+.hover-text{
+    color: white;
+    color: black;
+    transition: color 0.3s, color 0.3s;
+}
+
+.hover-text:hover {
+    color: black;
+    color: white;
+  }
+
 /* div > a{
     color: white;
 }
